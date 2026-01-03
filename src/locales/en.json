@@ -1,0 +1,130 @@
+{
+  "app": {
+    "title": "AgriChain",
+    "subtitle": "Blockchain-powered supply chain traceability"
+  },
+  "navigation": {
+    "home": "Home",
+    "farmer": "Farmer",
+    "distributor": "Distributor", 
+    "retailer": "Retailer",
+    "consumer": "Consumer"
+  },
+  "common": {
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "back": "Back",
+    "close": "Close",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "name": "Name",
+    "location": "Location",
+    "quantity": "Quantity",
+    "price": "Price",
+    "date": "Date",
+    "status": "Status",
+    "batchId": "Batch ID",
+    "scanQR": "Scan QR Code",
+    "generateQR": "Generate QR Code",
+    "traceBatch": "Trace Batch",
+    "viewMap": "View Map"
+  },
+  "farmer": {
+    "title": "Farmer Registration",
+    "subtitle": "Register your agricultural produce",
+    "produce": "Produce Type",
+    "farmName": "Farm Name",
+    "harvestDate": "Harvest Date",
+    "farmPrice": "Farm Price (₹)",
+    "notes": "Additional Notes",
+    "success": "Batch created successfully!",
+    "form": {
+      "producePlaceholder": "e.g., Tomatoes, Rice, Wheat",
+      "namePlaceholder": "Enter your name",
+      "farmPlaceholder": "Enter farm name",
+      "locationPlaceholder": "e.g., 11.016844,76.955832",
+      "quantityPlaceholder": "Enter quantity in kg",
+      "pricePlaceholder": "Enter price per kg",
+      "notesPlaceholder": "Any additional information..."
+    }
+  },
+  "distributor": {
+    "title": "Distributor Update",
+    "subtitle": "Update distribution information",
+    "distributorName": "Distributor Name",
+    "marginPrice": "Distribution Price (₹)",
+    "transportMode": "Transport Mode",
+    "expectedDelivery": "Expected Delivery Date",
+    "success": "Distribution updated successfully!",
+    "form": {
+      "distributorPlaceholder": "Enter distributor name",
+      "marginPlaceholder": "Enter distribution price",
+      "transportPlaceholder": "Select transport mode",
+      "deliveryPlaceholder": "Select delivery date"
+    }
+  },
+  "retailer": {
+    "title": "Retailer Update", 
+    "subtitle": "Update retail information",
+    "retailerName": "Retailer Name",
+    "storeName": "Store Name",
+    "sellingPrice": "Selling Price (₹)",
+    "storageConditions": "Storage Conditions",
+    "success": "Retail information updated successfully!",
+    "form": {
+      "retailerPlaceholder": "Enter retailer name",
+      "storePlaceholder": "Enter store name",
+      "sellingPlaceholder": "Enter selling price",
+      "storagePlaceholder": "Select storage conditions"
+    }
+  },
+  "consumer": {
+    "title": "Product Traceability",
+    "subtitle": "Scan QR code or enter batch ID to trace product journey",
+    "enterBatchId": "Enter Batch ID",
+    "scanQRCode": "Scan QR Code",
+    "traceButton": "Trace Product",
+    "noData": "No traceability data found",
+    "loadingTrace": "Tracing product journey...",
+    "traceSuccess": "Trace completed successfully!"
+  },
+  "traceResult": {
+    "title": "Product Traceability Report",
+    "currentStatus": "Current Status",
+    "origin": "Origin",
+    "productInfo": "Product Information",
+    "supplyChainJourney": "Supply Chain Journey",
+    "journeyComplete": "Journey Complete",
+    "journeyDescription": "This product has successfully moved through {count} stage(s) in the supply chain. All information is secured on the blockchain for transparency and authenticity."
+  },
+  "map": {
+    "title": "Product Journey Map",
+    "subtitle": "Supply Chain Journey",
+    "locationsCount": "Product traveled through {count} locations",
+    "coordinates": "Coordinates",
+    "viewOnGoogleMaps": "View on Google Maps",
+    "state": "State",
+    "district": "District", 
+    "city": "City"
+  },
+  "qrCode": {
+    "title": "Batch Created Successfully!",
+    "subtitle": "Share this QR code with distributors and retailers. Consumers can scan it to trace the complete journey.",
+    "testQR": "Test QR Code",
+    "downloadPNG": "PNG",
+    "downloadPDF": "PDF",
+    "done": "Done / Go Back to Form",
+    "whatsNext": "What's Next?",
+    "nextSteps": [
+      "Share QR code with your distributor",
+      "They'll scan it to update transport details", 
+      "Retailer will scan to add retail information",
+      "Consumers can scan to see the full journey"
+    ]
+  },
+  "footer": {
+    "copyright": "© 2025 AgriChain. All rights reserved. | Blockchain-powered supply chain traceability"
+  }
+}
+

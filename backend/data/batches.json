@@ -1,0 +1,1482 @@
+{
+  "BATCH-MG123IAV-GW8X2V": {
+    "batchId": "BATCH-MG123IAV-GW8X2V",
+    "metadata": {
+      "name": "kamal",
+      "produce": "Wheat",
+      "price": 119.99,
+      "quantity": 1.99,
+      "location": {
+        "lat": 11.026432,
+        "lng": 76.998246
+      },
+      "harvestDate": "2025-09-26T16:28:36.583Z",
+      "role": "farmer"
+    },
+    "currentOwner": "retailerMSP",
+    "status": "AVAILABLE_FOR_SALE",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 11.026432,
+          "lng": 76.998246
+        },
+        "timestamp": "2025-09-26T16:28:37.442Z",
+        "details": {
+          "name": "kamal",
+          "produce": "Wheat",
+          "price": 119.99,
+          "quantity": 1.99,
+          "location": {
+            "lat": 11.026432,
+            "lng": 76.998246
+          },
+          "harvestDate": "2025-09-26T16:28:36.583Z",
+          "role": "farmer"
+        }
+      },
+      {
+        "action": "UPDATE",
+        "actor": "distributorMSP",
+        "location": {
+          "lat": 11.026432,
+          "lng": 76.998246
+        },
+        "timestamp": "2025-09-26T16:29:24.425Z",
+        "details": {
+          "name": "arulraj",
+          "quantity": 23,
+          "marginPrice": 99.99,
+          "location": {
+            "lat": 11.026432,
+            "lng": 76.998246
+          },
+          "transportMode": "truck",
+          "expectedDelivery": "2025-07-15",
+          "status": "IN_TRANSIT",
+          "role": "distributor",
+          "note": "Received from farmer and being transported.",
+          "timestamp": "2025-09-26T16:29:24.425Z"
+        }
+      },
+      {
+        "action": "UPDATE",
+        "actor": "retailerMSP",
+        "location": {
+          "lat": 11.026432,
+          "lng": 76.998246
+        },
+        "timestamp": "2025-09-26T16:30:08.864Z",
+        "details": {
+          "retailerName": "Nithis",
+          "storeName": "shop",
+          "sellingPrice": 22.98,
+          "location": {
+            "lat": 11.026432,
+            "lng": 76.998246
+          },
+          "shelfLife": "36",
+          "storageConditions": "room_temperature",
+          "status": "AVAILABLE_FOR_SALE",
+          "role": "retailer",
+          "note": "Product received and available for sale.",
+          "timestamp": "2025-09-26T16:30:08.864Z"
+        }
+      }
+    ]
+  },
+  "BATCH-MG12JD9A-PSBM4V": {
+    "batchId": "BATCH-MG12JD9A-PSBM4V",
+    "metadata": {
+      "name": "kamal",
+      "produce": "Rice",
+      "price": 23,
+      "quantity": 33.99,
+      "location": {
+        "lat": 11.026432,
+        "lng": 76.998246
+      },
+      "harvestDate": "2025-09-26T16:40:56.542Z",
+      "role": "farmer"
+    },
+    "currentOwner": "FarmerMSP",
+    "status": "HARVESTED",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 11.026432,
+          "lng": 76.998246
+        },
+        "timestamp": "2025-09-26T16:40:56.866Z",
+        "details": {
+          "name": "kamal",
+          "produce": "Rice",
+          "price": 23,
+          "quantity": 33.99,
+          "location": {
+            "lat": 11.026432,
+            "lng": 76.998246
+          },
+          "harvestDate": "2025-09-26T16:40:56.542Z",
+          "role": "farmer"
+        }
+      }
+    ]
+  },
+  "BATCH-MG12WEFE-VALOV5": {
+    "batchId": "BATCH-MG12WEFE-VALOV5",
+    "metadata": {
+      "name": "kamal",
+      "produce": "Rice",
+      "price": 23,
+      "quantity": 22.99,
+      "location": {
+        "lat": 11.026432,
+        "lng": 76.998246
+      },
+      "harvestDate": "2025-09-26T16:51:04.586Z",
+      "role": "farmer"
+    },
+    "currentOwner": "FarmerMSP",
+    "status": "HARVESTED",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 11.026432,
+          "lng": 76.998246
+        },
+        "timestamp": "2025-09-26T16:51:05.172Z",
+        "details": {
+          "name": "kamal",
+          "produce": "Rice",
+          "price": 23,
+          "quantity": 22.99,
+          "location": {
+            "lat": 11.026432,
+            "lng": 76.998246
+          },
+          "harvestDate": "2025-09-26T16:51:04.586Z",
+          "role": "farmer"
+        }
+      }
+    ]
+  },
+  "BATCH-MG1JWEZB-E1VN7T": {
+    "batchId": "BATCH-MG1JWEZB-E1VN7T",
+    "metadata": {
+      "name": "kamal",
+      "produce": "Wheat",
+      "price": 3130.97,
+      "quantity": 10,
+      "location": {
+        "lat": 11.026432,
+        "lng": 76.998246
+      },
+      "harvestDate": "2025-09-27T00:46:58.775Z",
+      "role": "farmer"
+    },
+    "currentOwner": "FarmerMSP",
+    "status": "HARVESTED",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 11.026432,
+          "lng": 76.998246
+        },
+        "timestamp": "2025-09-27T00:46:59.282Z",
+        "details": {
+          "name": "kamal",
+          "produce": "Wheat",
+          "price": 3130.97,
+          "quantity": 10,
+          "location": {
+            "lat": 11.026432,
+            "lng": 76.998246
+          },
+          "harvestDate": "2025-09-27T00:46:58.775Z",
+          "role": "farmer"
+        }
+      }
+    ]
+  },
+  "BATCH-MG1PXBNJ-ICZJ6M": {
+    "batchId": "BATCH-MG1PXBNJ-ICZJ6M",
+    "metadata": {
+      "name": "kamal",
+      "produce": "rice",
+      "price": 23,
+      "quantity": 32,
+      "location": {
+        "lat": 10.936844,
+        "lng": 76.975816
+      },
+      "harvestDate": "2025-09-27T03:35:38.815Z",
+      "role": "farmer"
+    },
+    "currentOwner": "FarmerMSP",
+    "status": "HARVESTED",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 10.936844,
+          "lng": 76.975816
+        },
+        "timestamp": "2025-09-27T03:35:39.523Z",
+        "details": {
+          "name": "kamal",
+          "produce": "rice",
+          "price": 23,
+          "quantity": 32,
+          "location": {
+            "lat": 10.936844,
+            "lng": 76.975816
+          },
+          "harvestDate": "2025-09-27T03:35:38.815Z",
+          "role": "farmer"
+        }
+      }
+    ]
+  },
+  "BATCH-MG1QEN5O-4EZWF7": {
+    "batchId": "BATCH-MG1QEN5O-4EZWF7",
+    "metadata": {
+      "name": "kamal",
+      "produce": "Rice",
+      "price": 99.98,
+      "quantity": 20.01,
+      "location": {
+        "lat": 10.936844,
+        "lng": 76.975816
+      },
+      "harvestDate": "2025-09-27T03:49:06.877Z",
+      "role": "farmer"
+    },
+    "currentOwner": "FarmerMSP",
+    "status": "HARVESTED",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 10.936844,
+          "lng": 76.975816
+        },
+        "timestamp": "2025-09-27T03:49:07.396Z",
+        "details": {
+          "name": "kamal",
+          "produce": "Rice",
+          "price": 99.98,
+          "quantity": 20.01,
+          "location": {
+            "lat": 10.936844,
+            "lng": 76.975816
+          },
+          "harvestDate": "2025-09-27T03:49:06.877Z",
+          "role": "farmer"
+        }
+      }
+    ]
+  },
+  "BATCH-MG1SMU4D-K904X7": {
+    "batchId": "BATCH-MG1SMU4D-K904X7",
+    "metadata": {
+      "name": "kamal",
+      "produce": "Rice",
+      "price": 233,
+      "quantity": 3,
+      "location": {
+        "lat": 13.084301,
+        "lng": 80.270462
+      },
+      "harvestDate": "2025-09-27T04:51:28.381Z",
+      "role": "farmer"
+    },
+    "currentOwner": "FarmerMSP",
+    "status": "HARVESTED",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 13.084301,
+          "lng": 80.270462
+        },
+        "timestamp": "2025-09-27T04:51:28.859Z",
+        "details": {
+          "name": "kamal",
+          "produce": "Rice",
+          "price": 233,
+          "quantity": 3,
+          "location": {
+            "lat": 13.084301,
+            "lng": 80.270462
+          },
+          "harvestDate": "2025-09-27T04:51:28.381Z",
+          "role": "farmer"
+        }
+      }
+    ]
+  },
+  "BATCH-MG1WRO12-XFJZ6N": {
+    "batchId": "BATCH-MG1WRO12-XFJZ6N",
+    "metadata": {
+      "name": "ffffk",
+      "produce": "Rice",
+      "price": 7,
+      "quantity": 3,
+      "location": {
+        "lat": 10.931648,
+        "lng": 76.975995
+      },
+      "harvestDate": "2025-09-27T06:47:12.231Z",
+      "role": "farmer"
+    },
+    "currentOwner": "FarmerMSP",
+    "status": "HARVESTED",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 10.931648,
+          "lng": 76.975995
+        },
+        "timestamp": "2025-09-27T06:47:12.746Z",
+        "details": {
+          "name": "ffffk",
+          "produce": "Rice",
+          "price": 7,
+          "quantity": 3,
+          "location": {
+            "lat": 10.931648,
+            "lng": 76.975995
+          },
+          "harvestDate": "2025-09-27T06:47:12.231Z",
+          "role": "farmer"
+        }
+      }
+    ]
+  },
+  "BATCH-MG20ZLW4-R0FI0A": {
+    "batchId": "BATCH-MG20ZLW4-R0FI0A",
+    "metadata": {
+      "name": "kamal",
+      "produce": "Tomato",
+      "price": 10,
+      "quantity": 200,
+      "location": {
+        "lat": 10.934682,
+        "lng": 76.975309
+      },
+      "harvestDate": "2025-09-27T08:45:21.172Z",
+      "role": "farmer"
+    },
+    "currentOwner": "FarmerMSP",
+    "status": "HARVESTED",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 10.934682,
+          "lng": 76.975309
+        },
+        "timestamp": "2025-09-27T08:45:21.980Z",
+        "details": {
+          "name": "kamal",
+          "produce": "Tomato",
+          "price": 10,
+          "quantity": 200,
+          "location": {
+            "lat": 10.934682,
+            "lng": 76.975309
+          },
+          "harvestDate": "2025-09-27T08:45:21.172Z",
+          "role": "farmer"
+        }
+      }
+    ]
+  },
+  "BATCH-MG21H0WZ-GPE5PE": {
+    "batchId": "BATCH-MG21H0WZ-GPE5PE",
+    "metadata": {
+      "name": "kamal",
+      "produce": "Rice ",
+      "price": 23,
+      "quantity": 2,
+      "location": {
+        "lat": 10.931875,
+        "lng": 76.975977
+      },
+      "harvestDate": "2025-09-27T08:58:53.795Z",
+      "role": "farmer"
+    },
+    "currentOwner": "FarmerMSP",
+    "status": "HARVESTED",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 10.931875,
+          "lng": 76.975977
+        },
+        "timestamp": "2025-09-27T08:58:54.415Z",
+        "details": {
+          "name": "kamal",
+          "produce": "Rice ",
+          "price": 23,
+          "quantity": 2,
+          "location": {
+            "lat": 10.931875,
+            "lng": 76.975977
+          },
+          "harvestDate": "2025-09-27T08:58:53.795Z",
+          "role": "farmer"
+        }
+      }
+    ]
+  },
+  "BATCH-MG3BBU23-8FXCXO": {
+    "batchId": "BATCH-MG3BBU23-8FXCXO",
+    "metadata": {
+      "name": "Arul",
+      "produce": "Rice",
+      "price": 30,
+      "quantity": 100,
+      "location": {
+        "lat": 11.019878,
+        "lng": 76.985139
+      },
+      "harvestDate": "2025-09-28T06:22:33.963Z",
+      "role": "farmer"
+    },
+    "currentOwner": "retailerMSP",
+    "status": "AVAILABLE_FOR_SALE",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 11.019878,
+          "lng": 76.985139
+        },
+        "timestamp": "2025-09-28T06:22:34.591Z",
+        "details": {
+          "name": "Arul",
+          "produce": "Rice",
+          "price": 30,
+          "quantity": 100,
+          "location": {
+            "lat": 11.019878,
+            "lng": 76.985139
+          },
+          "harvestDate": "2025-09-28T06:22:33.963Z",
+          "role": "farmer"
+        }
+      },
+      {
+        "action": "UPDATE",
+        "actor": "distributorMSP",
+        "location": {
+          "lat": 11.019878,
+          "lng": 76.985139
+        },
+        "timestamp": "2025-09-28T06:23:50.134Z",
+        "details": {
+          "name": "Kamal",
+          "quantity": 100,
+          "marginPrice": 900,
+          "location": {
+            "lat": 11.019878,
+            "lng": 76.985139
+          },
+          "transportMode": "truck",
+          "expectedDelivery": "2025-09-29",
+          "status": "IN_TRANSIT",
+          "role": "distributor",
+          "note": "Received from farmer and being transported.",
+          "timestamp": "2025-09-28T06:23:50.134Z"
+        }
+      },
+      {
+        "action": "UPDATE",
+        "actor": "retailerMSP",
+        "location": {
+          "lat": 11.019878,
+          "lng": 76.985139
+        },
+        "timestamp": "2025-09-28T06:26:52.374Z",
+        "details": {
+          "retailerName": "Nithis",
+          "storeName": "ABC",
+          "sellingPrice": 36,
+          "location": {
+            "lat": 11.019878,
+            "lng": 76.985139
+          },
+          "shelfLife": "300",
+          "storageConditions": "dry_cool",
+          "status": "AVAILABLE_FOR_SALE",
+          "role": "retailer",
+          "note": "Product received and available for sale.",
+          "timestamp": "2025-09-28T06:26:52.374Z"
+        }
+      }
+    ]
+  },
+  "BATCH-MG3C4JX3-YOEN1V": {
+    "batchId": "BATCH-MG3C4JX3-YOEN1V",
+    "metadata": {
+      "name": "Arul",
+      "produce": "Rice",
+      "price": 30,
+      "quantity": 99.9,
+      "location": {
+        "lat": 11.019878,
+        "lng": 76.985139
+      },
+      "harvestDate": "2025-09-28T06:44:53.847Z",
+      "role": "farmer"
+    },
+    "currentOwner": "FarmerMSP",
+    "status": "HARVESTED",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 11.019878,
+          "lng": 76.985139
+        },
+        "timestamp": "2025-09-28T06:44:54.318Z",
+        "details": {
+          "name": "Arul",
+          "produce": "Rice",
+          "price": 30,
+          "quantity": 99.9,
+          "location": {
+            "lat": 11.019878,
+            "lng": 76.985139
+          },
+          "harvestDate": "2025-09-28T06:44:53.847Z",
+          "role": "farmer"
+        }
+      }
+    ]
+  },
+  "BATCH-MG3C70RB-BIC8F4": {
+    "batchId": "BATCH-MG3C70RB-BIC8F4",
+    "metadata": {
+      "name": "Arul",
+      "produce": "Rice",
+      "price": 30,
+      "quantity": 100,
+      "location": {
+        "lat": 11.019878,
+        "lng": 76.985139
+      },
+      "harvestDate": "2025-09-28T06:46:48.984Z",
+      "role": "farmer"
+    },
+    "currentOwner": "retailerMSP",
+    "status": "AVAILABLE_FOR_SALE",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 11.019878,
+          "lng": 76.985139
+        },
+        "timestamp": "2025-09-28T06:46:49.515Z",
+        "details": {
+          "name": "Arul",
+          "produce": "Rice",
+          "price": 30,
+          "quantity": 100,
+          "location": {
+            "lat": 11.019878,
+            "lng": 76.985139
+          },
+          "harvestDate": "2025-09-28T06:46:48.984Z",
+          "role": "farmer"
+        }
+      },
+      {
+        "action": "UPDATE",
+        "actor": "distributorMSP",
+        "location": {
+          "lat": 11.019878,
+          "lng": 76.985139
+        },
+        "timestamp": "2025-09-28T06:47:57.656Z",
+        "details": {
+          "name": "Kamal",
+          "quantity": 100,
+          "marginPrice": 5,
+          "location": {
+            "lat": 11.019878,
+            "lng": 76.985139
+          },
+          "transportMode": "truck",
+          "expectedDelivery": "2025-09-30",
+          "status": "IN_TRANSIT",
+          "role": "distributor",
+          "note": "Received from farmer and being transported.",
+          "timestamp": "2025-09-28T06:47:57.656Z"
+        }
+      },
+      {
+        "action": "UPDATE",
+        "actor": "retailerMSP",
+        "location": {
+          "lat": 11.019878,
+          "lng": 76.985139
+        },
+        "timestamp": "2025-09-28T06:49:05.437Z",
+        "details": {
+          "retailerName": "Nithis",
+          "storeName": "ABC",
+          "sellingPrice": 40,
+          "location": {
+            "lat": 11.019878,
+            "lng": 76.985139
+          },
+          "shelfLife": "348",
+          "storageConditions": "dry_cool",
+          "status": "AVAILABLE_FOR_SALE",
+          "role": "retailer",
+          "note": "Product received and available for sale.",
+          "timestamp": "2025-09-28T06:49:05.437Z"
+        }
+      }
+    ]
+  },
+  "BATCH-MG4UW4GH-Q2MP4Z": {
+    "batchId": "BATCH-MG4UW4GH-Q2MP4Z",
+    "metadata": {
+      "name": "Arul",
+      "produce": "Tomatoes ",
+      "price": 29.98,
+      "quantity": 49.99,
+      "location": {
+        "lat": 11.019878,
+        "lng": 76.981862
+      },
+      "harvestDate": "2025-09-29T08:17:59.441Z",
+      "role": "farmer"
+    },
+    "currentOwner": "FarmerMSP",
+    "status": "HARVESTED",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 11.019878,
+          "lng": 76.981862
+        },
+        "timestamp": "2025-09-29T08:18:00.522Z",
+        "details": {
+          "name": "Arul",
+          "produce": "Tomatoes ",
+          "price": 29.98,
+          "quantity": 49.99,
+          "location": {
+            "lat": 11.019878,
+            "lng": 76.981862
+          },
+          "harvestDate": "2025-09-29T08:17:59.441Z",
+          "role": "farmer"
+        }
+      }
+    ]
+  },
+  "BATCH-MG4UWMZD-SWZPCI": {
+    "batchId": "BATCH-MG4UWMZD-SWZPCI",
+    "metadata": {
+      "name": "rdfg",
+      "produce": "rfhg",
+      "price": 455,
+      "quantity": 877,
+      "location": {
+        "lat": 11.019878,
+        "lng": 76.981862
+      },
+      "harvestDate": "2025-09-29T08:18:23.450Z",
+      "role": "farmer"
+    },
+    "currentOwner": "FarmerMSP",
+    "status": "HARVESTED",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 11.019878,
+          "lng": 76.981862
+        },
+        "timestamp": "2025-09-29T08:18:23.827Z",
+        "details": {
+          "name": "rdfg",
+          "produce": "rfhg",
+          "price": 455,
+          "quantity": 877,
+          "location": {
+            "lat": 11.019878,
+            "lng": 76.981862
+          },
+          "harvestDate": "2025-09-29T08:18:23.450Z",
+          "role": "farmer"
+        }
+      }
+    ]
+  },
+  "BATCH-970318": {
+    "batchId": "BATCH-970318",
+    "metadata": {
+      "name": "Farmer A",
+      "produce": "Tomato",
+      "price": 10,
+      "quantity": 100,
+      "location": {
+        "lat": 12.97,
+        "lng": 77.59
+      },
+      "harvestDate": "2025-10-09T19:56:57",
+      "role": "farmer"
+    },
+    "currentOwner": "FarmerMSP",
+    "status": "HARVESTED",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 12.97,
+          "lng": 77.59
+        },
+        "timestamp": "2025-10-09T14:26:57.712Z",
+        "details": {
+          "name": "Farmer A",
+          "produce": "Tomato",
+          "price": 10,
+          "quantity": 100,
+          "location": {
+            "lat": 12.97,
+            "lng": 77.59
+          },
+          "harvestDate": "2025-10-09T19:56:57",
+          "role": "farmer"
+        }
+      }
+    ]
+  },
+  "BATCH-MGJIO2PH-U65EQP": {
+    "batchId": "BATCH-MGJIO2PH-U65EQP",
+    "metadata": {
+      "name": "kamal",
+      "produce": "rice",
+      "price": 23,
+      "quantity": 20.99,
+      "location": {
+        "lat": 10.936844,
+        "lng": 76.975816
+      },
+      "harvestDate": "2025-10-09T14:32:21.173Z",
+      "role": "farmer"
+    },
+    "currentOwner": "distributorMSP",
+    "status": "IN_TRANSIT",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 10.936844,
+          "lng": 76.975816
+        },
+        "timestamp": "2025-10-09T14:32:21.516Z",
+        "details": {
+          "name": "kamal",
+          "produce": "rice",
+          "price": 23,
+          "quantity": 20.99,
+          "location": {
+            "lat": 10.936844,
+            "lng": 76.975816
+          },
+          "harvestDate": "2025-10-09T14:32:21.173Z",
+          "role": "farmer"
+        }
+      },
+      {
+        "action": "UPDATE",
+        "actor": "distributorMSP",
+        "location": {
+          "lat": 10.936844,
+          "lng": 76.975816
+        },
+        "timestamp": "2025-10-09T14:33:26.430Z",
+        "details": {
+          "name": "siva",
+          "quantity": 121,
+          "marginPrice": 1220.98,
+          "location": {
+            "lat": 10.936844,
+            "lng": 76.975816
+          },
+          "transportMode": "truck",
+          "expectedDelivery": "2025-04-13",
+          "status": "IN_TRANSIT",
+          "role": "distributor",
+          "note": "Received from farmer and being transported.",
+          "timestamp": "2025-10-09T14:33:26.430Z"
+        }
+      }
+    ]
+  },
+  "BATCH-MGJJ7MCF-35MJZB": {
+    "batchId": "BATCH-MGJJ7MCF-35MJZB",
+    "metadata": {
+      "name": "kamal",
+      "produce": "Rice",
+      "price": 233,
+      "quantity": 11.98,
+      "location": {
+        "lat": 10.936844,
+        "lng": 76.975816
+      },
+      "harvestDate": "2025-10-09T14:47:33.087Z",
+      "role": "farmer"
+    },
+    "currentOwner": "distributorMSP",
+    "status": "IN_TRANSIT",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 10.936844,
+          "lng": 76.975816
+        },
+        "timestamp": "2025-10-09T14:47:33.480Z",
+        "details": {
+          "name": "kamal",
+          "produce": "Rice",
+          "price": 233,
+          "quantity": 11.98,
+          "location": {
+            "lat": 10.936844,
+            "lng": 76.975816
+          },
+          "harvestDate": "2025-10-09T14:47:33.087Z",
+          "role": "farmer"
+        }
+      },
+      {
+        "action": "UPDATE",
+        "actor": "distributorMSP",
+        "location": {
+          "lat": 10.936844,
+          "lng": 76.975816
+        },
+        "timestamp": "2025-10-09T14:49:41.240Z",
+        "details": {
+          "name": "ja",
+          "quantity": 34,
+          "marginPrice": 34,
+          "location": {
+            "lat": 10.936844,
+            "lng": 76.975816
+          },
+          "transportMode": "train",
+          "expectedDelivery": "42025-03-12",
+          "status": "IN_TRANSIT",
+          "role": "distributor",
+          "note": "Received from farmer and being transported.",
+          "timestamp": "2025-10-09T14:49:41.240Z"
+        }
+      }
+    ]
+  },
+  "BATCH-MGK9TEFR-AQOMXC": {
+    "batchId": "BATCH-MGK9TEFR-AQOMXC",
+    "metadata": {
+      "name": "kamalSandeep",
+      "produce": "Rice",
+      "price": 234,
+      "quantity": 233,
+      "location": {
+        "lat": 10.936844,
+        "lng": 76.975816
+      },
+      "harvestDate": "2025-10-10T03:12:19.288Z",
+      "role": "farmer"
+    },
+    "currentOwner": "FarmerMSP",
+    "status": "HARVESTED",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 10.936844,
+          "lng": 76.975816
+        },
+        "timestamp": "2025-10-10T03:12:19.658Z",
+        "details": {
+          "name": "kamalSandeep",
+          "produce": "Rice",
+          "price": 234,
+          "quantity": 233,
+          "location": {
+            "lat": 10.936844,
+            "lng": 76.975816
+          },
+          "harvestDate": "2025-10-10T03:12:19.288Z",
+          "role": "farmer"
+        }
+      }
+    ]
+  },
+  "BATCH-MGKB61I1-OEG8A0": {
+    "batchId": "BATCH-MGKB61I1-OEG8A0",
+    "metadata": {
+      "name": "kamal",
+      "produce": "rice",
+      "price": 120.98,
+      "quantity": 3333,
+      "location": {
+        "lat": 10.936844,
+        "lng": 76.975816
+      },
+      "harvestDate": "2025-10-10T03:50:08.665Z",
+      "role": "farmer"
+    },
+    "currentOwner": "FarmerMSP",
+    "status": "HARVESTED",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 10.936844,
+          "lng": 76.975816
+        },
+        "timestamp": "2025-10-10T03:50:09.117Z",
+        "details": {
+          "name": "kamal",
+          "produce": "rice",
+          "price": 120.98,
+          "quantity": 3333,
+          "location": {
+            "lat": 10.936844,
+            "lng": 76.975816
+          },
+          "harvestDate": "2025-10-10T03:50:08.665Z",
+          "role": "farmer"
+        }
+      }
+    ]
+  },
+  "BATCH-MGKBPWY8-OH9SF1": {
+    "batchId": "BATCH-MGKBPWY8-OH9SF1",
+    "metadata": {
+      "name": "kamal",
+      "produce": "rice",
+      "price": 233,
+      "quantity": 13131.99,
+      "location": {
+        "lat": 10.936844,
+        "lng": 76.975816
+      },
+      "harvestDate": "2025-10-10T04:05:35.888Z",
+      "role": "farmer"
+    },
+    "currentOwner": "FarmerMSP",
+    "status": "HARVESTED",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 10.936844,
+          "lng": 76.975816
+        },
+        "timestamp": "2025-10-10T04:05:36.354Z",
+        "details": {
+          "name": "kamal",
+          "produce": "rice",
+          "price": 233,
+          "quantity": 13131.99,
+          "location": {
+            "lat": 10.936844,
+            "lng": 76.975816
+          },
+          "harvestDate": "2025-10-10T04:05:35.888Z",
+          "role": "farmer"
+        }
+      }
+    ]
+  },
+  "BATCH-MGKBR9PM-QY29PM": {
+    "batchId": "BATCH-MGKBR9PM-QY29PM",
+    "metadata": {
+      "name": "kamal",
+      "produce": "Rice",
+      "price": 232,
+      "quantity": 2221.99,
+      "location": {
+        "lat": 11.052646,
+        "lng": 76.955648
+      },
+      "harvestDate": "2025-10-10T04:06:39.082Z",
+      "role": "farmer"
+    },
+    "currentOwner": "distributorMSP",
+    "status": "IN_TRANSIT",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 11.052646,
+          "lng": 76.955648
+        },
+        "timestamp": "2025-10-10T04:06:39.323Z",
+        "details": {
+          "name": "kamal",
+          "produce": "Rice",
+          "price": 232,
+          "quantity": 2221.99,
+          "location": {
+            "lat": 11.052646,
+            "lng": 76.955648
+          },
+          "harvestDate": "2025-10-10T04:06:39.082Z",
+          "role": "farmer"
+        }
+      },
+      {
+        "action": "UPDATE",
+        "actor": "distributorMSP",
+        "location": {
+          "lat": 11.052646,
+          "lng": 76.955648
+        },
+        "timestamp": "2025-10-10T04:07:47.553Z",
+        "details": {
+          "name": "Arul",
+          "quantity": 32,
+          "marginPrice": 2000,
+          "location": {
+            "lat": 11.052646,
+            "lng": 76.955648
+          },
+          "transportMode": "truck",
+          "expectedDelivery": "2025-05-12",
+          "status": "IN_TRANSIT",
+          "role": "distributor",
+          "note": "Received from farmer and being transported.",
+          "timestamp": "2025-10-10T04:07:47.553Z"
+        }
+      }
+    ]
+  },
+  "BATCH-MGKCJ4E5-3ZHMAJ": {
+    "batchId": "BATCH-MGKCJ4E5-3ZHMAJ",
+    "metadata": {
+      "name": "kamal",
+      "produce": "rice",
+      "price": 222,
+      "quantity": 283.99,
+      "location": {
+        "lat": 11.052646,
+        "lng": 76.955648
+      },
+      "harvestDate": "2025-10-10T04:28:18.557Z",
+      "role": "farmer"
+    },
+    "currentOwner": "FarmerMSP",
+    "status": "HARVESTED",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 11.052646,
+          "lng": 76.955648
+        },
+        "timestamp": "2025-10-10T04:28:19.078Z",
+        "details": {
+          "name": "kamal",
+          "produce": "rice",
+          "price": 222,
+          "quantity": 283.99,
+          "location": {
+            "lat": 11.052646,
+            "lng": 76.955648
+          },
+          "harvestDate": "2025-10-10T04:28:18.557Z",
+          "role": "farmer"
+        }
+      }
+    ]
+  },
+  "BATCH-MGKD3PMJ-JQJ755": {
+    "batchId": "BATCH-MGKD3PMJ-JQJ755",
+    "metadata": {
+      "name": "kamal",
+      "produce": "rice",
+      "price": 233,
+      "quantity": 2390002.98,
+      "location": {
+        "lat": 11.052646,
+        "lng": 76.955648
+      },
+      "harvestDate": "2025-10-10T04:44:19.195Z",
+      "role": "farmer"
+    },
+    "currentOwner": "FarmerMSP",
+    "status": "HARVESTED",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 11.052646,
+          "lng": 76.955648
+        },
+        "timestamp": "2025-10-10T04:44:19.594Z",
+        "details": {
+          "name": "kamal",
+          "produce": "rice",
+          "price": 233,
+          "quantity": 2390002.98,
+          "location": {
+            "lat": 11.052646,
+            "lng": 76.955648
+          },
+          "harvestDate": "2025-10-10T04:44:19.195Z",
+          "role": "farmer"
+        }
+      }
+    ]
+  },
+  "BATCH-MGKDP7R9-IA1SN8": {
+    "batchId": "BATCH-MGKDP7R9-IA1SN8",
+    "metadata": {
+      "name": "Kamalu",
+      "produce": "Tomato",
+      "price": 50,
+      "quantity": 200,
+      "location": {
+        "lat": 11.052646,
+        "lng": 76.955648
+      },
+      "harvestDate": "2025-10-10T05:01:02.470Z",
+      "role": "farmer"
+    },
+    "currentOwner": "FarmerMSP",
+    "status": "HARVESTED",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 11.052646,
+          "lng": 76.955648
+        },
+        "timestamp": "2025-10-10T05:01:02.847Z",
+        "details": {
+          "name": "Kamalu",
+          "produce": "Tomato",
+          "price": 50,
+          "quantity": 200,
+          "location": {
+            "lat": 11.052646,
+            "lng": 76.955648
+          },
+          "harvestDate": "2025-10-10T05:01:02.470Z",
+          "role": "farmer"
+        }
+      }
+    ]
+  },
+  "BATCH-MGKE0DBF-3JBQB6": {
+    "batchId": "BATCH-MGKE0DBF-3JBQB6",
+    "metadata": {
+      "name": "Kamalu",
+      "produce": "Tomato",
+      "price": 50,
+      "quantity": 300,
+      "location": {
+        "lat": 11.052646,
+        "lng": 76.955648
+      },
+      "harvestDate": "2025-10-10T05:09:42.891Z",
+      "role": "farmer"
+    },
+    "currentOwner": "FarmerMSP",
+    "status": "HARVESTED",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 11.052646,
+          "lng": 76.955648
+        },
+        "timestamp": "2025-10-10T05:09:43.505Z",
+        "details": {
+          "name": "Kamalu",
+          "produce": "Tomato",
+          "price": 50,
+          "quantity": 300,
+          "location": {
+            "lat": 11.052646,
+            "lng": 76.955648
+          },
+          "harvestDate": "2025-10-10T05:09:42.891Z",
+          "role": "farmer"
+        }
+      }
+    ]
+  },
+  "BATCH-MGKF6CLZ-7PQCX1": {
+    "batchId": "BATCH-MGKF6CLZ-7PQCX1",
+    "metadata": {
+      "name": "kamal",
+      "produce": "Rice",
+      "price": 233,
+      "quantity": 2000,
+      "location": {
+        "lat": 11.052646,
+        "lng": 76.955648
+      },
+      "harvestDate": "2025-10-10T05:42:21.527Z",
+      "role": "farmer"
+    },
+    "currentOwner": "FarmerMSP",
+    "status": "HARVESTED",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 11.052646,
+          "lng": 76.955648
+        },
+        "timestamp": "2025-10-10T05:42:21.959Z",
+        "details": {
+          "name": "kamal",
+          "produce": "Rice",
+          "price": 233,
+          "quantity": 2000,
+          "location": {
+            "lat": 11.052646,
+            "lng": 76.955648
+          },
+          "harvestDate": "2025-10-10T05:42:21.527Z",
+          "role": "farmer"
+        }
+      }
+    ]
+  },
+  "BATCH-MGKG5MTY-29U1OS": {
+    "batchId": "BATCH-MGKG5MTY-29U1OS",
+    "metadata": {
+      "name": "kamal",
+      "produce": "rice",
+      "price": 232,
+      "quantity": 100,
+      "location": {
+        "lat": 11.042017,
+        "lng": 76.97587
+      },
+      "harvestDate": "2025-10-10T06:09:47.734Z",
+      "role": "farmer"
+    },
+    "currentOwner": "distributorMSP",
+    "status": "IN_TRANSIT",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 11.042017,
+          "lng": 76.97587
+        },
+        "timestamp": "2025-10-10T06:09:48.086Z",
+        "details": {
+          "name": "kamal",
+          "produce": "rice",
+          "price": 232,
+          "quantity": 100,
+          "location": {
+            "lat": 11.042017,
+            "lng": 76.97587
+          },
+          "harvestDate": "2025-10-10T06:09:47.734Z",
+          "role": "farmer"
+        }
+      },
+      {
+        "action": "UPDATE",
+        "actor": "distributorMSP",
+        "location": {
+          "lat": 11.042017,
+          "lng": 76.97587
+        },
+        "timestamp": "2025-10-10T06:10:34.429Z",
+        "details": {
+          "name": "arul",
+          "quantity": 56,
+          "marginPrice": 343,
+          "location": {
+            "lat": 11.042017,
+            "lng": 76.97587
+          },
+          "transportMode": "van",
+          "expectedDelivery": "2025-07-15",
+          "status": "IN_TRANSIT",
+          "role": "distributor",
+          "note": "Received from farmer and being transported.",
+          "timestamp": "2025-10-10T06:10:34.429Z"
+        }
+      }
+    ]
+  },
+  "BATCH-MGKKDPEG-8FMSWF": {
+    "batchId": "BATCH-MGKKDPEG-8FMSWF",
+    "metadata": {
+      "name": "kamal",
+      "produce": "Rice",
+      "price": 23,
+      "quantity": 222,
+      "location": {
+        "lat": 10.932911,
+        "lng": 76.977541
+      },
+      "harvestDate": "2025-10-10T08:08:02.778Z",
+      "role": "farmer"
+    },
+    "currentOwner": "FarmerMSP",
+    "status": "HARVESTED",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 10.932911,
+          "lng": 76.977541
+        },
+        "timestamp": "2025-10-10T08:08:04.373Z",
+        "details": {
+          "name": "kamal",
+          "produce": "Rice",
+          "price": 23,
+          "quantity": 222,
+          "location": {
+            "lat": 10.932911,
+            "lng": 76.977541
+          },
+          "harvestDate": "2025-10-10T08:08:02.778Z",
+          "role": "farmer"
+        }
+      }
+    ]
+  },
+  "BATCH-MGKKX1SA-QXKMNL": {
+    "batchId": "BATCH-MGKKX1SA-QXKMNL",
+    "metadata": {
+      "name": "kamal",
+      "produce": "Rice",
+      "price": 200,
+      "quantity": 22.97,
+      "location": {
+        "lat": 10.932911,
+        "lng": 76.977541
+      },
+      "harvestDate": "2025-10-10T08:23:05.290Z",
+      "role": "farmer"
+    },
+    "currentOwner": "FarmerMSP",
+    "status": "HARVESTED",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 10.932911,
+          "lng": 76.977541
+        },
+        "timestamp": "2025-10-10T08:23:05.764Z",
+        "details": {
+          "name": "kamal",
+          "produce": "Rice",
+          "price": 200,
+          "quantity": 22.97,
+          "location": {
+            "lat": 10.932911,
+            "lng": 76.977541
+          },
+          "harvestDate": "2025-10-10T08:23:05.290Z",
+          "role": "farmer"
+        }
+      }
+    ]
+  },
+  "BATCH-MGKOR7T3-9P6ZKR": {
+    "batchId": "BATCH-MGKOR7T3-9P6ZKR",
+    "metadata": {
+      "name": "kama",
+      "produce": "rice",
+      "price": 23,
+      "quantity": 19.96,
+      "location": {
+        "lat": 10.932884,
+        "lng": 76.977524
+      },
+      "harvestDate": "2025-10-10T10:10:31.623Z",
+      "role": "farmer"
+    },
+    "currentOwner": "FarmerMSP",
+    "status": "HARVESTED",
+    "history": [
+      {
+        "action": "CREATE",
+        "actor": "FarmerMSP",
+        "location": {
+          "lat": 10.932884,
+          "lng": 76.977524
+        },
+        "timestamp": "2025-10-10T10:10:31.959Z",
+        "details": {
+          "name": "kama",
+          "produce": "rice",
+          "price": 23,
+          "quantity": 19.96,
+          "location": {
+            "lat": 10.932884,
+            "lng": 76.977524
+          },
+          "harvestDate": "2025-10-10T10:10:31.623Z",
+          "role": "farmer"
+        }
+      }
+    ]
+  }
+}
